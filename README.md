@@ -1,4 +1,4 @@
-# AnajSuraksha
+# Naitik
 
 ### Problem
 
@@ -13,7 +13,7 @@ Ration Transparency 2.0 is a citizen-centric platform that provides real-time st
 
 # Table of Contents
 
-1. [Introduction](#anajsuraksha)
+1. [Introduction](#naitik)
 2. [Table Of Contents](#table-of-contents)
 3. [Features](#key-features-of-ration-transparency-20)
 4. [Installation](#installation)
@@ -64,8 +64,8 @@ Ration Transparency 2.0 is a citizen-centric platform that provides real-time st
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/CoderHarshDew/AnajSuraksha.git
-cd AnajSuraksha
+git clone https://github.com/CoderHarshDew/Naitik.git
+cd Naitik
 
 ```
 
